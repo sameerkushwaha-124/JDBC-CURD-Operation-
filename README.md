@@ -1,0 +1,2 @@
+Yes, you can perform CRUD (Create, Read, Update, and Delete) operations using Java Database Connectivity (JDBC): connect to a database, create new records, read existing records, update records, and delete records. 
+You can use JDBC with different databases, such as MySQL, Oracle, and PostgreSQL. You can also use JDBC to perform batch processing, which groups multiple queries into one unit and sends it to the database in a single network trip
